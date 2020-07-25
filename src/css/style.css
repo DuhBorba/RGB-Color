@@ -37,6 +37,25 @@ body {
   z-index: 1000;
 }
 
+@media (max-width: 440px) {
+  .container {
+    height: 93vh;
+    width: 100%;
+    border-radius: 0;
+    padding: 0px;
+  }
+  .section {
+    align-self: center;
+    display: inline;
+  }
+  .title {
+    margin-top: 80px;
+  }
+  .logo {
+    width: 200px;
+  }
+}
+
 .section {
   display: inline-block;
 }
