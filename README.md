@@ -6,6 +6,9 @@
 Esse projeto foi um dos desafios do Bootcamp Full Stack do [IGTI - Instituto de Gestão e Tecnologia da Informação](https://www.igti.com.br/), 
 para fixar os conceitos dados em aula, o principal objetivo era criar uma aplicação para a visualização de cores a partir da escala RGB
 
+### Enunciado do trabalho
+* [Enunciado](https://github.com/DuhBorba/RGB-Color/blob/master/enunciado.pdf)
+
 ### IGTI
 O Instituto de Gestão e Tecnologia da Informação, fundado em 2006, é uma instituição de ensino superior credenciada pelo MEC. 
 É referência nacional na formação profissional em TI e Tecnologias Emergentes, e possui um modelo educacional a distância que prioriza a excelência acadêmica dos seus alunos
